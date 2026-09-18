@@ -1,3 +1,4 @@
 Nombre | Correo | Usuario de GitHub
 Rubén Casales | tu.correo1@ejemplo.com | tu_usuario
 Pepito        | pepitocorre@gmail.com  | pepitousuarioRubén Casales (Int 3) | tu.correo3@ejemplo.com | tu_usuario
+Rubén Casales (Int 4) | tu.correo4@ejemplo.com | tu_usuario
