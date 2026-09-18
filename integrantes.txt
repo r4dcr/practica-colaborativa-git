@@ -1,0 +1,2 @@
+Nombre | Correo | Usuario de GitHub
+Rubén Casales | tu.correo1@ejemplo.com | tu_usuario
